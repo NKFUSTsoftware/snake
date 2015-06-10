@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>貪吃蛇</title>
+	
+	<script type="text/javascript" src="pg.js"></script>
+	<script type="text/javascript" src="jsq.js"></script>
+	
+</head>
+<style type="text/css">
+body{
+	background: url(bg.jpg);
+}
+header{
+	height: 100px;
+	background: blue;
+}
+.games_all{
+	display: inline;
+	height: 450px;
+	margin-left: 50%;
+	padding-top: 100px;	
+}
+.game_body{
+	
+	float: left;
+	margin-top: 10px;
+	margin-left: 200px;
+	width: 500px;
+	height: 450px;
+
+}
+.game_list{
+	float: right;
+	margin-right: 200px;	
+	width: 250px;
+	height: 450px;
+}
+</style>
+
+
+
+<body>
+	<header>
+		AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	</header>
+	<div class ="games_all">
+		
+				<div class="game_body">
+					<script type="text/javascript" src="pg.js"></script>
+					<canvas id="canvas" width="500" height="450"></canvas>
+				</div>
+			
+				<div class="game_list">
+					<h2>名人榜</h2>
+					<table>
+						<tr>
+							<td>粥截論</td>
+							<td>Score:100</td>
+						</tr>
+						<tr>
+							<td>菜一零</td>
+							<td>Score:50</td>
+						</tr>
+						<tr>
+							<td>蚵蚊喆</td>
+							<td>Score:49</td>
+						</tr>
+						<tr>
+							<td></td>
+							<td id="point"></td>
+						</tr>
+					</table>
+					<button onclick="create_food()">dddd</button>
+				</div>
+		
+	
+	</div>
+</body>
+</html>
