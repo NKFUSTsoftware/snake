@@ -1,4 +1,4 @@
-# 專題名稱-學分大冒險 #
+# 專題名稱-迷幻貪吃蛇 #
 
 
 
@@ -10,7 +10,7 @@
 
 
 ##內容##
-類似貪食蛇的遊戲進行玩法，學生們為了畢業，需要收集螢幕上出現的學分，收到到學分後，主角身後就會說出跟班，跟他一起收集學分，最後收集到足夠的學分就能夠畢業。
+類似貪食蛇的遊戲進行玩法，有分遊戲難度，每個難度都有不同的記分板，一起挑戰最高分吧!
 
 ##User Story##
 ##使用情節##
@@ -39,4 +39,15 @@
 
  ##Burndown Chart##
 
-![default](https://cloud.githubusercontent.com/assets/11185802/7718176/3a72d054-fedf-11e4-9cb4-8c3389812df7.png)
+![default](https://cloud.githubusercontent.com/assets/11185802/8321617/b93427de-1a5b-11e5-82f1-80568da6dd5b.png)
+
+ ##Trello##
+ 
+https://trello.com/b/QF6UWATe/snake
+
+ ##工作分配##
+- 陳則維 程式設計
+- 張倪禎  美編設計
+- 林宛儒 美編設計、PPT
+- 阮常恩 Trello
+
