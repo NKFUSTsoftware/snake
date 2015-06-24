@@ -49,5 +49,5 @@ https://trello.com/b/QF6UWATe/snake
 - 陳則維 程式設計
 - 張倪禎  美編設計
 - 林宛儒 美編設計、PPT
-- 阮常恩 Trello
+- 阮常恩 Trello GitHub管理
 
